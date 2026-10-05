@@ -1,0 +1,5 @@
+simpy>=4.1
+numpy
+pandas
+jupyter
+nbconvert
